@@ -1,0 +1,26 @@
+* {
+    padding-left: 15px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.highlight {
+    width: 30%;
+    margin-top: 50px;
+    color: black;
+}
+
+table {
+    position: absolute;
+    right: 0;
+    top: 25%;
+}
+
+span {
+    text-transform: uppercase;
+    color: red;
+}
+
+.data {
+    font-weight: bold;
+}

@@ -1,0 +1,29 @@
+* {
+    padding-left: 15px;
+    padding-right: 15px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+svg {
+    padding-top: 35px;
+    width: 50%;
+    height: 30%;
+}
+
+form {
+    float: right;
+    font-size: larger;
+}
+
+#button {
+    background-color: red;
+}
+
+form input .text::selection {
+    color: red;
+}
+
+#header {
+    font-weight: bold;
+}

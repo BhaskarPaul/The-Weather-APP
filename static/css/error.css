@@ -1,0 +1,17 @@
+* {
+    padding: 25px;
+}
+
+svg {
+    /* transform: translate(); */
+    width: 60%;
+    height: 60%;
+}
+
+.para {
+    float: right;
+    font-size: 100px;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 10px;
+}
